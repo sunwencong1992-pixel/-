@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">折叠计数器</string>
-    <string name="perm_rationale">折叠计数器需要以下权限才能正常运行</string>
-</resources>
