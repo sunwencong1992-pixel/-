@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 背景层次 -->
+    <color name="bg">#050508</color>
+    <color name="bg1">#0C0C12</color>
+    <color name="bg2">#111119</color>
+    <color name="bg3">#18181F</color>
+    <!-- 文字 -->
+    <color name="text_primary">#F2F2F7</color>
+    <color name="text_secondary">#8E8E9A</color>
+    <color name="text_tertiary">#3C3C48</color>
+    <!-- 品牌色：苹果绿 -->
+    <color name="accent">#30D158</color>
+    <color name="accent_soft">#1A3D25</color>
+    <color name="accent_glow">#30D15830</color>
+    <!-- 辅助色 -->
+    <color name="blue">#0A84FF</color>
+    <color name="red">#FF453A</color>
+    <color name="red_soft">#2D1210</color>
+    <color name="orange">#FF9F0A</color>
+    <!-- 分割线 -->
+    <color name="separator">#1C1C1E</color>
+    <color name="separator2">#2C2C2E</color>
+</resources>
